@@ -29,13 +29,13 @@ Por uma necessidade destas eu estou precisando integrar umas aplicações em jav
 
 Para poder mostrar como fazer, vamos antes criar uma classe bem simples em java para ser consumida em [jruby](http://www.jruby.org/).
 
-[gist id=1077172 file=Calculator.java]
+{% gist 1077172 Calculator.java %}
 
 É uma calculadora muito simples. Na verdade ela somente adiciona dois valores.
 
 Para compilar e gerar o jar basta seguir os passos abaixo:
 
-[gist id=1077172 file=smallest-jar-creation.sh]
+{% gist 1077172 smallest-jar-creation.sh %}
 
 Eu não tinha nem idéia de como criar um jar até ler o post [Creating an executable jar file](http://www.skylit.com/javamethods/faqs/createjar.html).
 
@@ -49,13 +49,13 @@ Basicamente você pode consumir uma classe java de três formas:
 
 
 
-	
+
   * Diretamente (nomes completos de pacotes a cada uso)
 
-	
+
   * Incluindo a classe no object
 
-	
+
   * Incluindo um pacote dentro de um módulo ruby
 
 
@@ -71,9 +71,9 @@ Existe um passo comum a todas elas para permitir o acesso às classes java no ru
 
 
 
-> 
+>
 
-> 
+>
 > require 'java'
 
 
@@ -137,7 +137,7 @@ Para isso dentro do módulo você pode usar o método import_package para vincul
 ## O fonte completo
 
 
-[gist id=1077172 file=calculator.rb]
+{% gist 1077172 calculator.rb %}
 
 
 ## Conclusão

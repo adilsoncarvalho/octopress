@@ -25,4 +25,4 @@ Descompactando o arquivo, o jar que você está procurando é o **sqljdbc4.jar*
 
 Caso você, como eu, não tenha a menor idéia de como montar uma string de conexão jdbc, é bom dar uma olhada em [Building the Connection URL](http://msdn.microsoft.com/en-us/library/ms378428.aspx).
 
-[gist id=1089337 file=access-sql-server.rb] 
+{% gist 1089337 access-sql-server.rb %}

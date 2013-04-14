@@ -18,4 +18,4 @@ Cada linguagem tem os seus padrões de para código fonte. Algumas vezes de form
 
 Eu achei este guia por um tweet do @ruby_news. É um pouco extenso, mas bem interessante.
 
-[gist id=1105334] 
+{% gist 1105334 %}

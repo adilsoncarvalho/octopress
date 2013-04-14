@@ -22,10 +22,10 @@ Eu achei este [post](http://www.devdaily.com/mac-os-x/convert-caf-sound-file-aif
 
 Mais uma _googlada_ e encontrei neste outro [post](http://pt.w3support.net/index.php?db=so&id=435349) os formatos para criar um MP3.
 
-[gist id=1073217 file=to-mp3.sh]
+{% gist 1073217 to-mp3.sh %}
 
 Eu aproveitei e alterei o outro script que faz estas conversões em lote para trocar de AIF para MP3.
 
-[gist id=1073217 file=all-to-mp3.sh]
+{% gist 1073217 all-to-mp3.sh %}
 
 Rápido e prático! :)
