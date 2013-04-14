@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2010-08-17 13:40:36
+layout: post
+slug: debian-day-2010
+title: Debian Day 2010
+wordpress_id: 137
+categories:
+- TechNews
+tags:
+- Debian
+- DebianDay
+- Linux
+---
+
+![](http://wiki.debianbrasil.org/DebianDayBrasil2010?action=AttachFile&do=get&target=diadeb2010.png)Dia 16 de agosto é internacionalmente o dia do [Debian](http://debian.org/), uma das mais famosas distros de Linux.
+
+No Brasil, a comemoração ganhou o nome de [DebianDayBrasil2010](http://wiki.debianbrasil.org/DebianDayBrasil2010) e acontecerá em diversas cidades.
+
+Aqui em Curitiba, quem promove a comemoração é a [FESP](http://wiki.debianbrasil.org/GUD/PR/DiaDebian2010PrCuritiba).
+
+O evento ocorrerá na sede da faculdade, dia 21 de agosto, das 13h às 18h
+
+Se puder, apareça por lá!

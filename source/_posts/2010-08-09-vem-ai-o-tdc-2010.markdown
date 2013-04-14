@@ -1,0 +1,35 @@
+---
+comments: true
+date: 2010-08-09 13:40:52
+layout: post
+slug: vem-ai-o-tdc-2010
+title: Vem ai o TDC 2010
+wordpress_id: 118
+categories:
+- TechNews
+tags:
+- Evento
+- TDC
+---
+
+[![](http://adilsoncarvalho.com.br/blog/wp-content/uploads/2010/08/tdc-2010-logo.png)](http://adilsoncarvalho.com.br/blog/wp-content/uploads/2010/08/tdc-2010-logo.png)Tá chegando a hora.
+
+Quase um mês antes TechEd Brasil, chega a hora dos desenvolvedores se reunirem para ver o que há de novo no mundo.<!-- more -->
+
+O TDC, por não estar vinculado com um fornecedor específico de solução, acaba tendo um formato muito mais multidisciplinar.
+
+Não somente limitado a algumas tecnologias, ele acaba sendo interessante para uma audiência ainda maior.
+
+Lá você acha de tudo um pouco.
+
+
+[![](http://adilsoncarvalho.com.br/blog/wp-content/uploads/2010/08/tdc-2010-agenda.png)](http://www.thedevelopersconference.com.br/tdc/2010/sp/programacao)
+
+
+O TDC está contando com trilhas para todos os gostos este ano.
+
+Vamos desde testes e metodologias ágeis, passando pela web e mobiles, nunca deixando os testes para depois :)
+
+O evento tem o agradável preço de R$20 por trilha, deixando-o acessível para todos.
+
+Vale a pena conferira a [programação](http://www.thedevelopersconference.com.br/tdc/2010/sp/programacao).
